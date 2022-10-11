@@ -1,1 +1,1 @@
- a shell script that creates a file named exactly  
+ script that writes into the file ls_cwd_content 
