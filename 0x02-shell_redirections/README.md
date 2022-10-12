@@ -1,1 +1,1 @@
-a script that lists all the files with a .gif extension in the current directory and all its sub-directories. 
+ a shell script that creates a file named exactly 
